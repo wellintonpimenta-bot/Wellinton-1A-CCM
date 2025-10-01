@@ -1,10 +1,29 @@
 body{
-    background-color: red;
-    color: white;
+background-color: rgb(15, 15, 15);
+
+color: white
+
+
+
 }
-header{ 
-    background-color: white;
-    height: 35px;  
+
+header{
+background-color: rgb(80, 77, 77);
+height: 35px;
+
+
+
+}
+hader h3{
+    padding-left: 15px;
+    color:aqua;
+    text - align;center;
+    font 
+    -size; 30px;
+
+
+
+
 
 
 }
