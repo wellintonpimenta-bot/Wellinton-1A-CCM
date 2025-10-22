@@ -1,5 +1,5 @@
 body{
-background-color: rgb(136, 61, 206);
+background-color: rgb(255, 0, 64);
 
 color: white
 
@@ -8,7 +8,7 @@ color: white
 }
 
 header{
-background-color: rgb(109, 28, 163);
+background-color: rgb(189, 0, 41);
 height: 35px;
 windth: 100%;
 margin-left: -20px;
