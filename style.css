@@ -1,5 +1,5 @@
 body{
-background-color: rgb(15, 15, 15);
+background-color: rgb(136, 61, 206);
 
 color: white
 
@@ -8,22 +8,19 @@ color: white
 }
 
 header{
-background-color: rgb(80, 77, 77);
+background-color: rgb(109, 28, 163);
 height: 35px;
-
+windth: 100%;
+margin-left: -20px;
+margin-right: -20px;
 
 
 }
-hader h3{
-    padding-left: 15px;
-    color:aqua;
-    text - align;center;
-    font 
-    -size; 30px;
 
-
-
-
-
+header h3{
+padding-left: 15px;
+color:rgb(245, 243, 247);
+text-align: center;
+font-size: 30px;
 
 }
